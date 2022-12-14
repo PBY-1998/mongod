@@ -3,7 +3,7 @@
     @since: 2022/8/8
     @desc: //TODO 通用类
 **/
-package mongo_go
+package mongod
 
 import (
 	"bytes"

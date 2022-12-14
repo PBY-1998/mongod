@@ -3,7 +3,7 @@
     @since: 2022/8/5
     @desc: //TODO 通用Doc
 **/
-package mongo_go
+package mongod
 
 type Doc struct {
 	ID         string `bson:"_id,omitempty" json:"_id,omitempty" form:"_id"`

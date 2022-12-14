@@ -3,7 +3,7 @@
     @since: 2022/8/5
     @desc: //TODO 封装go语言mongo curd操作
 **/
-package mongo_go
+package mongod
 
 import (
 	"errors"

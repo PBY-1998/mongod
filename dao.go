@@ -3,7 +3,7 @@
     @since: 2022/8/5
     @desc: //TODO
 **/
-package mongo_go
+package mongod
 
 import (
 	"go.mongodb.org/mongo-driver/mongo"
