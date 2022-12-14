@@ -1,4 +1,4 @@
-module codeup.aliyun.com/601b69af841cc46b7c49ab5f/go/mongo_go
+module github.com/PBY-1998/mongod
 
 go 1.18
 
